@@ -59,6 +59,8 @@ submitting a pull request. This project uses
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) with a
 few minor exceptions.
 
+Please see original [tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
 License
 -------
 
