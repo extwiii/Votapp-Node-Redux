@@ -25,7 +25,7 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git https://github.com/extwiii/Votapp-Node-Redux.git
+git clone https://github.com/extwiii/Votapp-Node-Redux.git
 
 # Change directory
 cd Votapp-Node-Redux
